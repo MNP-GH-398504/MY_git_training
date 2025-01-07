@@ -1,0 +1,761 @@
+[
+    {
+      "title": "Spaghetti Carbonara",
+      "imageUrl": "assets/images/spaghetti.png",
+      "description": "A classic Italian pasta dish.",
+      "ingredients": ["Spaghetti", "Eggs", "Pancetta", "Parmesan cheese", "Black pepper"],
+      "isVegetarian": false,
+      "isVegan": false,
+      "isNonveg":true,
+      "cuisine": "Italian",
+      "steps": [
+      "Cook the spaghetti as per the package instructions.",
+      "In a pan, sauté garlic and add ground beef.",
+      "Pour in the tomato sauce and let it simmer.",
+      "Serve the sauce over the spaghetti."
+    ]
+    },
+    {
+      "title": "Vegan Buddha Bowl",
+      "imageUrl": "assets/images/buddha_bowl.png",
+      "description": "A healthy vegan bowl with quinoa and veggies.",
+      "ingredients": ["Quinoa", "Chickpeas", "Avocado", "Spinach", "Carrot"],
+      "isVegetarian": true,
+      "isVegan": true,
+      "isNonveg":false,
+      "cuisine": "Fusion",
+      "steps": [
+      "Chop all the vegetables.",
+      "Toss them in a bowl.",
+      "Drizzle with vegan dressing and mix well."
+    ]
+    }, 
+    {
+      "title": "Coconut Chutney",
+      "imageUrl": "assets/images/coconut_chutney.png",
+      "description": "Coconut Chutney is a creamy, flavorful South Indian condiment made from fresh coconut, green chilies, and spices",
+      "ingredients": ["½ cup grated fresh or frozen coconut", "¼ cup roasted chana dal (roasted bengal gram)", "½ inch ginger(chopped)", 
+      "1 to 2 green chilies(chopped)", "15 to 20 curry leaves","2 teaspoons oil (coconut oil or sunflower oil)",
+    "salt as required","¼ cup water or add as required"],
+      "isVegetarian": true,
+      "isVegan": true,
+      "isNonveg":false,
+      "cuisine": "Indian",
+      "steps": [
+      "First heat 2 teaspoons oil (sunflower or coconut oil) in a frying pan. Keep the heat to a low. Then add 15 to 20 curry leaves.",
+      "Put all the ingredients (½ cup grated fresh or frozen coconut, ¼ cup roasted chana dal, ½ inch chopped ginger, 1 to 2 green chillies and salt (as required) along with the curry leaves and the oil mixture in a chutney grinder or small blender.",
+      "Add ¼ cup water or as required and grind to a smooth chutney. Do not add too much water. For a thicker consistency, add less water.",
+      "Serve the Hotel Style Coconut Chutney with plain dosa or rava dosa or rava idli or uttapam. Consume when fresh. At the most you can freeze the chutney and use it for a couple of days."
+    ]
+    },
+    {
+      "title": "Dosa",
+      "imageUrl": "assets/images/dosa.png",
+      "description": "Crispy or soft crepes made from a fermented rice and lentil batter.",
+      "ingredients": [
+        "½ cup idli rice or parboiled rice",
+        "½ cup regular rice",
+        "¼ cup urad dal (split black gram)",
+        "⅛ tsp fenugreek seeds",
+        "2 tbsp poha (flattened rice)",
+        "1.5 cups water for soaking",
+        "¾ cup water for grinding",
+        "½ tsp rock salt",
+        "Oil as needed"
+      ],
+      "isVegetarian": true,
+      "isVegan": true,
+      "isNonveg": false,
+      "cuisine": "Indian",
+      "steps": [
+        "Rinse rice, urad dal, and fenugreek seeds together. Add rinsed poha and soak in water for 5-6 hours.",
+        "Drain water and grind the soaked ingredients with ¾ cup water to a smooth or slightly grainy batter.",
+        "Add salt to the batter, mix well, and let it ferment for 8-9 hours until it doubles in volume.",
+        "Heat a pan, spread a little oil, and pour a ladle of batter. Spread it outward in a circular motion.",
+        "Cook on medium heat. Once the top is set and the bottom is golden, fold and serve.",
+        "Enjoy dosa with sambar, potato masala, or coconut chutney."
+      ]
+    },    
+    {
+      "title": "Vegetable Biryani",
+      "imageUrl": "assets/images/vegetablebiryani.png",
+      "description": "A flavorful dish with layers of basmati rice, spiced vegetable masala, crunchy nuts, and aromatic herbs.",
+      "ingredients": [
+        "Basmati rice",
+        "Neutral oil",
+        "Spices: Saffron, bay leaves, cloves, green and black cardamom, cinnamon sticks, coriander, caraway seeds",
+        "Herbs: Ginger garlic paste, cilantro, dried mint, and dill",
+        "Vegetables: Carrots, potatoes, squash, mushrooms, and bell peppers",
+        "Vegan yogurt",
+        "Non-dairy milk",
+        "Raw cashews",
+        "Firm tofu",
+        "Fried onions"
+      ],
+      "isVegetarian": true,
+      "isVegan": true,
+      "isNonveg": false,
+      "cuisine": "Indian",
+      "steps": [
+        "Wash and soak basmati rice for 30 minutes. Drain.",
+        "Boil water with bay leaves, cloves, cardamom, cinnamon, and caraway seeds. Cook rice until 80% done, then strain and rinse with cold water.",
+        "Soak saffron in non-dairy milk and set aside.",
+        "Heat oil in a large pot. Add spices, then sauté carrots, potatoes, and squash with ginger garlic paste and salt. Cook for 5 minutes.",
+        "Add bell peppers and mushrooms. Cook for another 5 minutes.",
+        "Stir in cilantro, dried mint, and dill. Add vegan yogurt, coriander, cayenne or paprika, and mix well.",
+        "Add half the fried onions, cashews, biryani masala, and tofu. Mix in 1 cup of water or non-dairy milk.",
+        "Once the masala boils, layer cooked rice evenly on top. Sprinkle with saffron milk, dried mint, biryani masala, and remaining fried onions.",
+        "Cover and cook on high for 5 minutes, then on low for 10 minutes. Let it rest uncovered for 10 minutes before serving."
+      ]
+    },    
+    {
+      "title": "Arabic Mandi",
+      "imageUrl": "assets/images/chicken_mandi.png",
+      "description": "A traditional Arabic dish made with aromatic basmati rice, tender meat, and a blend of fragrant spices, cooked to perfection for a flavorful experience.",
+      "ingredients": [
+        "Basmati rice",
+        "Meat: chicken or lamb",
+        "Spices: bay leaves, cardamom pods, cinnamon sticks, cloves, black peppercorns, turmeric, cumin, and coriander",
+        "Vegetables: tomatoes, onions, garlic, and green chilies",
+        "Herbs: fresh coriander and mint leaves",
+        "Oil or ghee",
+        "Saffron",
+        "Lemon juice",
+        "Salt"
+      ],
+      "isVegetarian": false,
+      "isVegan": false,
+      "isNonveg": true,
+      "cuisine": "Middle Eastern",
+      "steps": [
+        "Wash the basmati rice and soak it in water for 30 minutes. Drain and set aside.",
+        "Heat oil or ghee in a large pot and fry the onions until golden brown.",
+        "Add garlic, green chilies, and tomatoes, and cook until the mixture turns into a paste.",
+        "Add the meat (chicken or lamb) to the pot and cook until it is browned on all sides.",
+        "Add the spices: bay leaves, cardamom pods, cinnamon sticks, cloves, black peppercorns, turmeric, cumin, and coriander. Mix well.",
+        "Pour enough water to cover the meat, add salt, and let it cook until the meat is tender.",
+        "Remove the cooked meat from the pot and set it aside.",
+        "Strain the broth to remove the whole spices and set it aside.",
+        "In the same pot, layer the soaked basmati rice over the broth and add a pinch of saffron soaked in water or milk.",
+        "Place the cooked meat on top of the rice and cover the pot with a tight-fitting lid.",
+        "Cook on high heat for 5 minutes, then reduce the heat and cook for 20-25 minutes until the rice is fully cooked and fluffy.",
+        "Sprinkle fresh coriander and mint leaves over the top before serving.",
+        "Serve hot with a side of tomato chutney or salad."
+      ]
+    },
+    {
+      "title": "Chicken Biryani",
+      "imageUrl": "assets/images/chickenbiriyani.png",
+      "description": "A flavorful and aromatic dish made with tender chicken, basmati rice, and a medley of rich spices, layered and cooked to perfection.",
+      "ingredients": [
+        "Basmati rice",
+        "Chicken (cut into pieces)",
+        "Spices: bay leaves, cardamom pods, cinnamon sticks, cloves, star anise, and cumin seeds",
+        "Ground spices: turmeric powder, red chili powder, garam masala, coriander powder",
+        "Vegetables: onions, tomatoes, green chilies, and ginger-garlic paste",
+        "Herbs: fresh coriander and mint leaves",
+        "Yogurt",
+        "Lemon juice",
+        "Saffron soaked in warm milk",
+        "Oil or ghee",
+        "Fried onions (for garnish)",
+        "Salt"
+      ],
+      "isVegetarian": false,
+      "isVegan": false,
+      "isNonveg": true,
+      "cuisine": "Indian",
+      "steps": [
+        "Wash and soak the basmati rice in water for 30 minutes. Drain and set aside.",
+        "Marinate the chicken with yogurt, turmeric powder, red chili powder, coriander powder, garam masala, lemon juice, and salt. Set aside for at least 1 hour.",
+        "Heat oil or ghee in a large pot. Add whole spices (bay leaves, cardamom, cinnamon, cloves, star anise, cumin seeds) and fry until aromatic.",
+        "Add sliced onions and fry until golden brown. Add the ginger-garlic paste and cook until the raw smell disappears.",
+        "Add chopped tomatoes and green chilies. Cook until the tomatoes turn soft and mushy.",
+        "Add the marinated chicken to the pot and cook until the chicken is half-cooked and the masala is well-blended.",
+        "In another pot, bring water to a boil, add salt and a few whole spices. Add the soaked rice and cook until 70% done. Drain the water and set the rice aside.",
+        "Layer the partially cooked rice over the chicken masala in the pot. Sprinkle saffron milk, fried onions, chopped mint, and coriander leaves over the rice.",
+        "Cover the pot with a tight-fitting lid and cook on high heat for 5 minutes, then reduce the heat to low and cook for 20-25 minutes until the rice is fully cooked and the chicken is tender.",
+        "Let the biryani rest for 10 minutes before opening the lid.",
+        "Serve hot with raita or a side salad."
+      ]
+    },
+    {
+      "title": "Al-Faham Chicken",
+      "imageUrl": "assets/images/alfaham.png",
+      "description": "A popular Middle Eastern grilled chicken dish, marinated in aromatic spices and herbs, known for its juicy and smoky flavor.",
+      "ingredients": [
+        "Whole chicken (cut into halves or quarters)",
+        "Yogurt",
+        "Lemon juice",
+        "Olive oil",
+        "Garlic paste",
+        "Ginger paste",
+        "Spices: cumin powder, coriander powder, paprika, turmeric powder, black pepper powder, red chili powder, garam masala, cardamom powder",
+        "Salt",
+        "Dried thyme (optional)",
+        "Saffron strands (optional, soaked in warm water)",
+        "Charcoal (for smoking)"
+      ],
+      "isVegetarian": false,
+      "isVegan": false,
+      "isNonveg": true,
+      "cuisine": "Middle Eastern",
+      "steps": [
+        "Clean the chicken and make deep slits on the pieces to allow the marinade to penetrate.",
+        "Prepare the marinade by mixing yogurt, lemon juice, olive oil, garlic paste, ginger paste, and all the spices (cumin powder, coriander powder, paprika, turmeric powder, black pepper powder, red chili powder, garam masala, cardamom powder, and salt). Add saffron water and thyme if desired.",
+        "Rub the marinade generously over the chicken, ensuring it coats the slits well. Cover and refrigerate for at least 4 hours, preferably overnight, for best results.",
+        "Preheat a grill or oven to medium-high heat. If using a charcoal grill, prepare the coals until they are white-hot.",
+        "Place the chicken on the grill or in the oven. Cook for 15-20 minutes on each side, brushing occasionally with olive oil or leftover marinade, until the chicken is fully cooked and has a nice char.",
+        "For a smoky flavor, heat a small piece of charcoal until red hot. Place it in a small bowl or foil, and position it in the center of the cooked chicken. Drizzle a little oil on the charcoal to create smoke, cover immediately, and let it sit for 5-7 minutes.",
+        "Serve hot with garlic sauce, hummus, or a side of grilled vegetables and pita bread."
+      ]
+    },
+    {
+      "title": "Sambar",
+      "imageUrl": "assets/images/sambar.png",
+      "description": "A flavorful South Indian lentil stew made with toor dal, a variety of vegetables, tamarind, and aromatic spices, served with rice or idli.",
+      "ingredients": [
+        "1 cup Toor dal (pigeon peas)",
+        "2 cups mixed vegetables (carrot, drumstick, brinjal, beans, pumpkin, etc.)",
+        "1 medium onion (sliced)",
+        "1 medium tomato (chopped)",
+        "2-3 tablespoons tamarind pulp",
+        "2-3 tablespoons Sambar powder",
+        "1/2 teaspoon turmeric powder",
+        "Salt to taste",
+        "2 tablespoons oil",
+        "1/2 teaspoon mustard seeds",
+        "1/2 teaspoon cumin seeds",
+        "1-2 dried red chilies",
+        "A pinch of asafoetida (hing)",
+        "Few curry leaves",
+        "Coriander leaves (for garnish)"
+      ],
+      "isVegetarian": true,
+      "isVegan": true,
+      "isNonveg": false,
+      "cuisine": "South Indian",
+      "steps": [
+        "Wash the toor dal thoroughly and pressure cook it with 2 cups of water, turmeric powder, and a pinch of salt until soft (3-4 whistles). Mash the cooked dal and set aside.",
+        "Wash and chop the vegetables into medium-sized pieces.",
+        "In a pot, heat 1 tablespoon of oil and sauté the onions until translucent. Add the chopped tomatoes and cook until they turn soft.",
+        "Add the chopped vegetables, turmeric powder, salt, and about 2 cups of water. Cook until the vegetables are tender.",
+        "Once the vegetables are cooked, add the tamarind pulp and sambar powder. Mix well and let it simmer for 5-7 minutes.",
+        "Add the cooked dal to the vegetable mixture. Adjust the consistency with water if needed and simmer for another 5 minutes.",
+        "For tempering, heat the remaining oil in a small pan. Add mustard seeds, cumin seeds, dried red chilies, curry leaves, and a pinch of asafoetida. Once the mustard seeds splutter, pour the tempering over the sambar.",
+        "Garnish with chopped coriander leaves and serve hot with steamed rice, idli, or dosa."
+      ]
+    },
+    {
+      "title": "Dragon Chicken",
+      "imageUrl": "assets/images/dragon_chicken.png",
+      "description": "A spicy, sweet, and tangy Indo-Chinese chicken dish made with crispy chicken strips, tossed in a flavorful sauce with vegetables and cashews.",
+      "ingredients": [
+        "500g boneless chicken (cut into thin strips)",
+        "2 tablespoons soy sauce",
+        "1 tablespoon chili sauce",
+        "1 tablespoon vinegar",
+        "1 egg (beaten)",
+        "1/4 cup all-purpose flour",
+        "1/4 cup cornflour",
+        "1/2 teaspoon black pepper powder",
+        "Salt to taste",
+        "Oil for frying",
+        "2 tablespoons oil (for stir-frying)",
+        "1 medium onion (sliced)",
+        "1 medium bell pepper (sliced)",
+        "2-3 dried red chilies (broken)",
+        "2 teaspoons garlic (finely chopped)",
+        "2 teaspoons ginger (finely chopped)",
+        "1 tablespoon tomato ketchup",
+        "1 tablespoon red chili sauce",
+        "1 tablespoon soy sauce",
+        "1 teaspoon sugar",
+        "2 tablespoons cashews (optional)",
+        "Spring onions (for garnish)"
+      ],
+      "isVegetarian": false,
+      "isVegan": false,
+      "isNonveg": true,
+      "cuisine": "Indo-Chinese",
+      "steps": [
+        "In a mixing bowl, marinate the chicken strips with soy sauce, chili sauce, vinegar, black pepper, and a little salt. Let it sit for 20-30 minutes.",
+        "Add the beaten egg, all-purpose flour, and cornflour to the marinated chicken. Mix well to coat the chicken strips evenly.",
+        "Heat oil in a pan and deep-fry the chicken strips until golden and crispy. Drain on paper towels and set aside.",
+        "In another pan or wok, heat 2 tablespoons of oil. Add the dried red chilies, garlic, and ginger. Sauté until fragrant.",
+        "Add the sliced onion and bell pepper. Stir-fry for 2-3 minutes until slightly soft but still crisp.",
+        "Mix in tomato ketchup, red chili sauce, soy sauce, sugar, and a little water to make a sauce. Let it simmer for 1-2 minutes.",
+        "Add the fried chicken strips and toss well to coat them with the sauce.",
+        "If using cashews, lightly toast them and add to the dish.",
+        "Garnish with chopped spring onions and serve hot with fried rice, noodles, or as an appetizer."
+      ]
+    },
+    {
+      "title": "Chicken Manchurian",
+      "imageUrl": "assets/images/chicken_manchurian.png",
+      "description": "Chicken Manchurian is a popular Indo-Chinese dish featuring crispy chicken bites tossed in a tangy, spicy, and savory sauce. Perfect with fried rice or noodles.",
+      "ingredients": 
+         [
+          "500g boneless chicken (cut into small cubes)",
+          "1 egg",
+          "2 tbsp cornflour",
+          "2 tbsp all-purpose flour",
+          "1 tsp ginger-garlic paste",
+          "Salt to taste",
+          "Black pepper to taste",
+          "Oil for deep frying",
+    
+          "2 tbsp oil",
+          "1 tbsp garlic (minced)",
+          "1 tbsp ginger (minced)",
+          "2-3 green chilies (slit)",
+          "1 medium onion (diced)",
+          "1 medium green bell pepper (diced)",
+          "2 tbsp soy sauce",
+          "1 tbsp chili sauce",
+          "2 tbsp tomato ketchup",
+          "1 tsp vinegar",
+          "1/2 tsp sugar",
+          "1/4 tsp black pepper",
+          "1 cup chicken stock or water",
+          "1 tbsp cornflour mixed with 3 tbsp water (slurry)",
+          "Spring onions (chopped) for garnish"
+        ],
+      
+      "isVegetarian": false,
+      "isVegan": false,
+      "isNonveg": true,
+      "cuisine": "Chinese",
+      "steps": [
+        "In a mixing bowl, combine chicken cubes with egg, cornflour, all-purpose flour, ginger-garlic paste, salt, and black pepper. Mix well to coat.",
+        "Heat oil in a deep pan and fry the chicken pieces until golden and crispy. Drain on paper towels and set aside.",
+        "In a wok or large pan, heat 2 tbsp oil. Add minced garlic, ginger, and green chilies. Sauté until aromatic.",
+        "Add diced onion and green bell pepper. Stir-fry for 2-3 minutes until slightly tender.",
+        "Add soy sauce, chili sauce, tomato ketchup, vinegar, sugar, and black pepper. Mix well.",
+        "Pour in the chicken stock or water and bring the sauce to a simmer.",
+        "Stir in the cornflour slurry to thicken the sauce. Cook for another 1-2 minutes until the sauce is glossy.",
+        "Add the fried chicken pieces and toss well to coat them in the sauce.",
+        "Garnish with chopped spring onions and serve hot with fried rice or noodles."
+      ]
+    },
+    {
+      "title": "Fried Rice",
+      "imageUrl": "assets/images/fried_rice.png",
+      "description": "Fried Rice is a flavorful and quick dish made with cooked rice stir-fried with vegetables, sauces, and optional protein. A perfect side or main dish for any meal.",
+      "ingredients":  [
+          "3 cups cooked rice (preferably day-old rice)",
+          "2 tbsp oil (vegetable or sesame oil)",
+          "2 eggs (beaten, optional)",
+          "1 medium carrot (finely chopped)",
+          "1/2 cup green peas (frozen or fresh)",
+          "1/2 cup green beans (chopped)",
+          "1 medium onion (finely chopped)",
+          "3-4 cloves garlic (minced)",
+          "2-3 green chilies (slit, optional)",
+          "1/4 cup spring onions (chopped, for garnish)",
+          "2 tbsp soy sauce",
+          "1 tsp vinegar",
+          "1 tsp chili sauce (optional)",
+          "Salt to taste",
+          "1/4 tsp black pepper"
+        ],
+      "isVegetarian": true,
+      "isVegan": true,
+      "isNonveg": false,
+      "cuisine": "Chinese",
+      "steps": [
+        "Heat 1 tbsp oil in a large wok or frying pan over medium heat. If using eggs, pour in the beaten eggs, scramble them, and set aside.",
+        "Add another tablespoon of oil to the pan. Sauté the minced garlic, onions, and green chilies until fragrant.",
+        "Add the chopped carrots, green peas, and green beans. Stir-fry for 3-4 minutes until the vegetables are slightly tender but still crisp.",
+        "If adding protein, stir in cooked chicken, shrimp, or tofu and mix well.",
+        "Add the cooked rice to the pan. Break up any clumps and stir to combine with the vegetables and protein.",
+        "Pour in soy sauce, vinegar, and chili sauce (if using). Mix thoroughly to coat the rice evenly.",
+        "Season with salt and black pepper to taste. Stir-fry for another 2-3 minutes on high heat.",
+        "If using scrambled eggs, return them to the pan and mix gently.",
+        "Garnish with chopped spring onions and serve hot."
+      ]
+    },
+    {
+      "title": "Butter Chicken",
+      "imageUrl": "assets/images/butter_chicken.png",
+      "description": "Butter Chicken, also known as Murgh Makhani, is a rich and creamy chicken curry made with marinated chicken cooked in a spiced tomato gravy with butter and cream.",
+      "ingredients":  [
+          "500g boneless chicken (cut into pieces)",
+          "1 cup yogurt",
+          "1 tbsp ginger garlic paste",
+          "1 tsp turmeric powder",
+          "1 tsp red chili powder",
+          "1 tsp garam masala",
+          "2 tbsp lemon juice",
+          "Salt to taste",
+          "2 tbsp oil",
+          "1 large onion (chopped)",
+          "2 cups tomatoes (pureed)",
+          "1/2 cup cream",
+          "1 tbsp butter",
+          "Fresh coriander for garnish",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp kasuri methi (dried fenugreek leaves)"
+        ],
+      "isVegetarian": false,
+      "isVegan": false,
+      "isNonveg": true,
+      "cuisine": "Indian",
+      "steps": [
+        "Marinate chicken with yogurt, ginger garlic paste, turmeric powder, red chili powder, garam masala, lemon juice, and salt. Let it rest for 1 hour.",
+        "Heat oil in a pan and sauté onions until golden brown.",
+        "Add pureed tomatoes and cook until the oil separates.",
+        "Add marinated chicken and cook until it's tender.",
+        "Stir in cumin powder, coriander powder, and kasuri methi.",
+        "Add cream and butter, simmer for 5-10 minutes.",
+        "Garnish with fresh coriander and serve with naan or rice."
+      ]
+    },
+    {
+      "title": "Aloo Gobi",
+      "imageUrl": "assets/images/aloo_gopi.png",
+      "description": "Aloo Gobi is a simple yet flavorful North Indian dish made with potatoes and cauliflower cooked in a spiced gravy.",
+      "ingredients":  [
+          "2 medium potatoes (peeled and cubed)",
+          "1 small cauliflower (cut into florets)",
+          "2 tbsp oil",
+          "1 large onion (chopped)",
+          "2 tomatoes (pureed)",
+          "1 tsp ginger garlic paste",
+          "1 tsp turmeric powder",
+          "1 tsp ground cumin",
+          "1 tsp ground coriander",
+          "1/2 tsp red chili powder",
+          "Salt to taste",
+          "Fresh cilantro for garnish"
+        ],
+      "isVegetarian": true,
+      "isVegan": true,
+      "isNonveg": false,
+      "cuisine": "Indian",
+      "steps": [
+        "Heat oil in a pan and sauté onions until golden.",
+        "Add ginger garlic paste and cook for 1 minute.",
+        "Add pureed tomatoes and cook until the oil separates.",
+        "Add turmeric, cumin, coriander, and red chili powder, then mix well.",
+        "Add potatoes and cauliflower. Mix well and cover the pan. Cook for 15-20 minutes on medium heat, stirring occasionally.",
+        "Add salt to taste and garnish with cilantro.",
+        "Serve with roti or rice."
+      ]
+    },
+    {
+      "title": "Caesar Salad",
+      "imageUrl": "assets/images/caesar_salad.png",
+      "description": "Caesar Salad is a classic salad made with romaine lettuce, croutons, Parmesan cheese, and Caesar dressing.",
+      "ingredients": 
+         [
+          "4 cups romaine lettuce (chopped)",
+          "1 cup croutons",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup Caesar dressing",
+          "Freshly ground black pepper",
+          "1/2 cup mayonnaise",
+          "2 tbsp lemon juice",
+          "1 tbsp Dijon mustard",
+          "1 tsp Worcestershire sauce",
+          "1 garlic clove (minced)",
+          "Salt and pepper to taste"
+        ],
+
+      "isVegetarian": true,
+      "isVegan": false,
+      "isNonveg": false,
+      "cuisine": "American",
+      "steps": [
+        "In a large bowl, combine lettuce, croutons, and Parmesan cheese.",
+        "To make the dressing, whisk together mayonnaise, lemon juice, mustard, Worcestershire sauce, garlic, salt, and pepper.",
+        "Toss the salad with Caesar dressing until well coated.",
+        "Serve immediately with additional Parmesan and black pepper on top."
+      ]
+    },
+    {
+      "title": "Beef Burger",
+      "imageUrl": "assets/images/beef_burger.png",
+      "description": "A classic beef burger made with a juicy beef patty, lettuce, tomato, cheese, and a soft bun.",
+      "ingredients":  [
+          "500g ground beef",
+          "1 egg",
+          "1/2 cup breadcrumbs",
+          "1/4 cup grated onion",
+          "1 tsp garlic powder",
+          "1 tsp salt",
+          "1 tsp pepper",
+          "Burger buns",
+          "Lettuce leaves",
+          "Tomato slices",
+          "Cheese slices (optional)"
+        ],
+      "isVegetarian": false,
+      "isVegan": false,
+      "isNonveg": true,
+      "cuisine": "American",
+      "steps": [
+        "In a bowl, mix ground beef, egg, breadcrumbs, onion, garlic powder, salt, and pepper.",
+        "Form the mixture into patties and cook them on a grill or in a skillet for 5-7 minutes per side.",
+        "Toast the burger buns lightly on the grill.",
+        "Assemble the burger by placing a beef patty on the bottom half of the bun, adding lettuce, tomato, and cheese (optional).",
+        "Top with the other half of the bun and serve."
+      ]
+    },
+    {
+      "title": "Chicken Alfredo",
+      "imageUrl": "assets/images/chicken_alfredo.png",
+      "description": "Chicken Alfredo is a creamy pasta dish made with grilled chicken and fettuccine pasta in a rich Alfredo sauce.",
+      "ingredients":  [
+          "2 chicken breasts (boneless and skinless)",
+          "250g fettuccine pasta",
+          "1/2 cup butter",
+          "2 cloves garlic (minced)",
+          "1 cup heavy cream",
+          "1 cup grated Parmesan cheese",
+          "Salt and pepper to taste",
+          "Olive oil for cooking"
+        ],
+      "isVegetarian": false,
+      "isVegan": false,
+      "isNonveg": true,
+      "cuisine": "Italian",
+      "steps": [
+        "Season the chicken breasts with salt and pepper, then grill or cook them in a pan with olive oil for 6-7 minutes per side until fully cooked.",
+        "Cook the fettuccine pasta according to package instructions.",
+        "In a pan, melt butter over medium heat, add garlic and sauté for 1 minute.",
+        "Add heavy cream to the pan and bring to a simmer.",
+        "Stir in Parmesan cheese until the sauce thickens.",
+        "Add cooked pasta to the sauce, toss to coat.",
+        "Slice the chicken breasts and place on top of the pasta.",
+        "Serve immediately with extra cheese and fresh parsley."
+      ]
+    },
+    {
+      "title": "Vegetable Stir Fry",
+      "imageUrl": "assets/images/vegetable_stir_fry.png",
+      "description": "A quick and healthy vegetable stir fry made with a mix of colorful vegetables and soy sauce.",
+      "ingredients":  [
+          "1 cup broccoli florets",
+          "1 bell pepper (sliced)",
+          "1 carrot (sliced)",
+          "1 zucchini (sliced)",
+          "2 tbsp soy sauce",
+          "1 tbsp olive oil",
+          "1 tsp sesame oil",
+          "1 tbsp ginger garlic paste",
+          "1 tbsp honey",
+          "Salt and pepper to taste",
+          "Sesame seeds for garnish"
+        ],
+      "isVegetarian": true,
+      "isVegan": true,
+      "isNonveg": false,
+      "cuisine": "Chinese",
+      "steps": [
+        "Heat olive oil and sesame oil in a wok or large skillet.",
+        "Add ginger garlic paste and sauté for 1 minute.",
+        "Add the vegetables and stir fry for 5-7 minutes until tender-crisp.",
+        "Stir in soy sauce, honey, salt, and pepper.",
+        "Cook for another 2 minutes, then garnish with sesame seeds.",
+        "Serve hot with rice or noodles."
+      ]
+    },
+    {
+      "title": "Sushi",
+      "imageUrl": "assets/images/sushi.png",
+      "description": "Sushi is a Japanese dish consisting of vinegared rice, often combined with various ingredients like seafood, vegetables, and occasionally tropical fruits.",
+      "ingredients": [
+          "2 cups sushi rice",
+          "2 1/2 cups water",
+          "1/4 cup rice vinegar",
+          "2 tbsp sugar",
+          "1 tsp salt",
+          "Nori (seaweed sheets)",
+          "Fresh fish (tuna, salmon, etc.)",
+          "Cucumber (julienned)",
+          "Avocado (sliced)",
+          "Soy sauce",
+          "Wasabi",
+          "Pickled ginger"
+        ],
+      "isVegetarian": false,
+      "isVegan": false,
+      "isNonveg": true,
+      "cuisine": "Japanese",
+      "steps": [
+        "Rinse the sushi rice under cold water until the water runs clear.",
+        "Cook the rice according to the package instructions, then mix rice vinegar, sugar, and salt until dissolved, and stir into the rice.",
+        "Place a sheet of nori on a bamboo sushi mat and spread a thin layer of rice on top, leaving a small border at the top.",
+        "Add fish, cucumber, and avocado in a line along the bottom edge of the rice.",
+        "Roll the sushi tightly using the mat, then slice into bite-sized pieces.",
+        "Serve with soy sauce, wasabi, and pickled ginger."
+      ]
+    },
+    {
+      "title": "Paella",
+      "imageUrl": "assets/images/paella.png",
+      "description": "Paella is a traditional Spanish dish from Valencia made with rice, saffron, vegetables, chicken, and seafood.",
+      "ingredients":  [
+          "1/2 cup olive oil",
+          "1 onion (chopped)",
+          "1 bell pepper (chopped)",
+          "2 cloves garlic (minced)",
+          "1 cup rice (preferably short-grain)",
+          "2 cups chicken broth",
+          "1/2 tsp saffron threads",
+          "1/2 cup peas",
+          "200g chicken (cut into pieces)",
+          "200g shrimp",
+          "200g mussels",
+          "1 lemon (cut into wedges)",
+          "Salt and pepper"
+        ],
+      "isVegetarian": false,
+      "isVegan": false,
+      "isNonveg": true,
+      "cuisine": "Spanish",
+      "steps": [
+        "In a large pan, heat olive oil and sauté onion, bell pepper, and garlic until softened.",
+        "Add rice and stir to coat with oil, then add chicken broth and saffron. Bring to a boil.",
+        "Add chicken pieces and cook until almost done.",
+        "Add shrimp, mussels, and peas, and continue cooking until the seafood is cooked through.",
+        "Let the paella rest for 5 minutes before serving with lemon wedges."
+      ]
+    },
+    {
+      "title": "Shakshuka",
+      "imageUrl": "assets/images/shakshuka.png",
+      "description": "Shakshuka is a Middle Eastern dish of poached eggs in a spicy tomato sauce with peppers, onions, and garlic.",
+      "ingredients":  [
+          "2 tbsp olive oil",
+          "1 onion (sliced)",
+          "1 bell pepper (sliced)",
+          "2 cloves garlic (minced)",
+          "1 can diced tomatoes",
+          "2 tsp ground cumin",
+          "1 tsp paprika",
+          "1/2 tsp chili flakes",
+          "4 eggs",
+          "Salt and pepper",
+          "Fresh cilantro (for garnish)"
+        ],
+      "isVegetarian": true,
+      "isVegan": false,
+      "isNonveg": false,
+      "cuisine": "Middle Eastern",
+      "steps": [
+        "Heat olive oil in a pan and sauté onions, bell peppers, and garlic until soft.",
+        "Add diced tomatoes, cumin, paprika, chili flakes, salt, and pepper, and cook for 10 minutes.",
+        "Make small wells in the sauce and crack the eggs into each well.",
+        "Cover the pan and cook for 5-7 minutes or until eggs are set.",
+        "Garnish with fresh cilantro and serve with warm bread."
+      ]
+    },
+    {
+      "title": "Fish and Chips",
+      "imageUrl": "assets/images/fish_and_chips.png",
+      "description": "Fish and Chips is a British classic dish consisting of deep-fried battered fish and crispy fried potatoes.",
+      "ingredients":  [
+          "4 white fish fillets (cod or haddock)",
+          "1 cup flour (for batter)",
+          "1 tsp baking powder",
+          "1 cup cold beer or sparkling water",
+          "4 large potatoes (peeled and cut into fries)",
+          "Vegetable oil for frying",
+          "Salt and pepper"
+        ],
+      "isVegetarian": false,
+      "isVegan": false,
+      "isNonveg": true,
+      "cuisine": "British",
+      "steps": [
+        "Heat oil in a deep fryer or large pan for frying the fish and fries.",
+        "For the batter, whisk flour, baking powder, cold beer, and a pinch of salt until smooth.",
+        "Dip fish fillets in the batter and fry until golden and crispy, about 5-7 minutes.",
+        "Fry the potato fries until golden and crispy.",
+        "Serve the fish with fries, seasoned with salt and pepper."
+      ]
+    },{
+      "title": "Tacos",
+      "imageUrl": "assets/images/tacos.png",
+      "description": "Tacos are a traditional Mexican dish made with a folded corn or flour tortilla filled with various toppings like meat, beans, vegetables, and salsa.",
+      "ingredients":  [
+          "8 soft corn tortillas",
+          "500g ground beef or chicken",
+          "1 onion (chopped)",
+          "2 cloves garlic (minced)",
+          "1 tbsp chili powder",
+          "1 tsp cumin",
+          "Salt and pepper to taste",
+          "Toppings: shredded lettuce, diced tomatoes, grated cheese, sour cream, salsa"
+        ],
+      "isVegetarian": false,
+      "isVegan": false,
+      "isNonveg": true,
+      "cuisine": "Mexican",
+      "steps": [
+        "Cook ground meat in a pan with onion and garlic until browned.",
+        "Add chili powder, cumin, salt, and pepper, and cook for another 2 minutes.",
+        "Warm the tortillas and fill them with the meat mixture.",
+        "Top with lettuce, tomatoes, cheese, sour cream, and salsa."
+      ]
+    },
+    {
+      "title": "Moussaka",
+      "imageUrl": "assets/images/moussaka.png",
+      "description": "Moussaka is a Greek casserole made with layers of eggplant, ground meat, and béchamel sauce.",
+      "ingredients": [
+          "2 eggplants (sliced into rounds)",
+          "500g ground lamb or beef",
+          "1 onion (chopped)",
+          "2 cloves garlic (minced)",
+          "1 can diced tomatoes",
+          "1 tsp ground cinnamon",
+          "1 tsp ground allspice",
+          "2 cups béchamel sauce (made with butter, flour, milk, and nutmeg)",
+          "1/4 cup grated Parmesan cheese"
+        ],
+      "isVegetarian": false,
+      "isVegan": false,
+      "isNonveg": true,
+      "cuisine": "Greek",
+      "steps": [
+        "Grill or fry the eggplant slices until golden and tender.",
+        "In a pan, sauté onions and garlic, then add ground meat and cook until browned.",
+        "Add diced tomatoes, cinnamon, and allspice, and simmer for 15 minutes.",
+        "In a baking dish, layer eggplant, then the meat sauce, then more eggplant, and top with béchamel sauce.",
+        "Sprinkle Parmesan cheese on top and bake at 180°C (350°F) for 30-40 minutes until golden brown."
+      ]
+    },
+    {
+      "title": "Tandoori Chicken",
+      "imageUrl": "assets/images/tandoori_chicken.png",
+      "description": "Tandoori Chicken is a popular Indian dish where chicken is marinated in yogurt and spices, then grilled or baked in a tandoor oven.",
+      "ingredients": [
+          "4 chicken thighs (bone-in)",
+          "1/2 cup yogurt",
+          "1 tbsp ginger-garlic paste",
+          "1 tsp chili powder",
+          "1 tsp turmeric powder",
+          "1 tsp garam masala",
+          "1 tbsp lemon juice",
+          "Salt to taste",
+          "Fresh cilantro (for garnish)"
+        ],
+      "isVegetarian": false,
+      "isVegan": false,
+      "isNonveg": true,
+      "cuisine": "Indian",
+      "steps": [
+        "Marinate chicken with yogurt, ginger-garlic paste, chili powder, turmeric, garam masala, lemon juice, and salt. Let it marinate for 2 hours.",
+        "Preheat the oven to 200°C (400°F).",
+        "Place chicken on a baking tray and bake for 30-40 minutes or until golden brown and cooked through.",
+        "Garnish with fresh cilantro and serve with naan or rice."
+      ]
+    }              
+  ]
+
+  
+  
